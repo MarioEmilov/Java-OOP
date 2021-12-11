@@ -130,3 +130,5 @@ __________________________________________________
 
 After that I received this Certificate:
 --------------------------------------------------
+
+![Java OOP - October 2021 - Certificate](https://user-images.githubusercontent.com/88974458/145681474-a0d61701-38e3-4724-84b2-37aca7eee974.jpeg)
